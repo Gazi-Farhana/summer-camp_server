@@ -1,0 +1,75 @@
+[
+    {
+      "class_name": "Guitar lessons",
+      "class_img": "guitar_lessons.jpg",
+      "instructor_name": "John Smith",
+      "instructor_img": "john_smith.jpg",
+      "instructor_email": "john.smith@example.com",
+      "seats": 10,
+      "price": 100
+    },
+    {
+      "class_name": "Piano lessons",
+      "class_img": "piano_lessons.jpg",
+      "instructor_name": "Emily Johnson",
+      "instructor_img": "emily_johnson.jpg",
+      "instructor_email": "emily.johnson@example.com",
+      "seats": 8,
+      "price": 120
+    },
+    {
+      "class_name": "Violin lessons",
+      "class_img": "violin_lessons.jpg",
+      "instructor_name": "Michael Davis",
+      "instructor_img": "michael_davis.jpg",
+      "instructor_email": "michael.davis@example.com",
+      "seats": 6,
+      "price": 150
+    },
+    {
+      "class_name": "Drum lessons",
+      "class_img": "drum_lessons.jpg",
+      "instructor_name": "Sarah Thompson",
+      "instructor_img": "sarah_thompson.jpg",
+      "instructor_email": "sarah.thompson@example.com",
+      "seats": 8,
+      "price": 110
+    },
+    {
+      "class_name": "Celo lessons",
+      "class_img": "celo_lessons.jpg",
+      "instructor_name": "Daniel Wilson",
+      "instructor_img": "daniel_wilson.jpg",
+      "instructor_email": "daniel.wilson@example.com",
+      "seats": 4,
+      "price": 180
+    },
+    {
+      "class_name": "Keyboard lessons",
+      "class_img": "keyboard_lessons.jpg",
+      "instructor_name": "Jessica Brown",
+      "instructor_img": "jessica_brown.jpg",
+      "instructor_email": "jessica.brown@example.com",
+      "seats": 6,
+      "price": 130
+    },
+    {
+      "class_name": "Tabla lessons",
+      "class_img": "tabla_lessons.jpg",
+      "instructor_name": "Ravi Patel",
+      "instructor_img": "ravi_patel.jpg",
+      "instructor_email": "ravi.patel@example.com",
+      "seats": 8,
+      "price": 100
+    },
+    {
+      "class_name": "Saxophone lessons",
+      "class_img": "saxophone_lessons.jpg",
+      "instructor_name": "Olivia Clark",
+      "instructor_img": "olivia_clark.jpg",
+      "instructor_email": "olivia.clark@example.com",
+      "seats": 4,
+      "price": 160
+    }
+  ]
+  

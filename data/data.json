@@ -1,0 +1,63 @@
+[
+    {
+      "course_title": "Guitar Basics",
+      "course_img": "https://images.unsplash.com/photo-1593697972646-2f348871bd56?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "mentor_name": "John Smith",
+      "mentor_img": "https://images.unsplash.com/photo-1615242586099-ad758c8a24cf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80",
+      "available_seats": 10,
+      "status": "approved",
+      "enrolled": 5,
+      "price": "$200"
+    },
+    {
+      "course_title": "Piano Fundamentals",
+      "course_img": "https://images.unsplash.com/photo-1470019693664-1d202d2c0907?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1469&q=80",
+      "mentor_name": "Emily Davis",
+      "mentor_img": "https://plus.unsplash.com/premium_photo-1661930724260-9f3a8edd744f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+      "available_seats": 8,
+      "status": "approved",
+      "enrolled": 3,
+      "price": "$250"
+    },
+    {
+      "course_title": "Violin Mastery",
+      "course_img": "https://images.unsplash.com/photo-1534782710882-2f5e2c80c1b5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1631&q=80",
+      "mentor_name": "Sarah Thompson",
+      "mentor_img": "https://images.unsplash.com/photo-1499442711659-a9566695faed?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "available_seats": 12,
+      "status": "approved",
+      "enrolled": 6,
+      "price": "$300"
+    },
+    {
+      "course_title": "Drumming Essentials",
+      "course_img": "https://images.unsplash.com/photo-1642946795182-ba7132517014?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "mentor_name": "Michael Johnson",
+      "mentor_img": "https://images.unsplash.com/photo-1593659193548-87ccecd13c94?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=765&q=80",
+      "available_seats": 6,
+      "status": "approved",
+      "enrolled": 2,
+      "price": "$180"
+    },
+    {
+      "course_title": "Bass Guitar Techniques",
+      "course_img": "https://images.unsplash.com/photo-1619558041249-0523903712e1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "mentor_name": "Alex Rodriguez",
+      "mentor_img": "https://images.unsplash.com/photo-1681855178578-4535aba9b305?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+      "available_seats": 4,
+      "status": "approved",
+      "enrolled": 1,
+      "price": "$220"
+    },
+    {
+      "course_title": "Flute for Beginners",
+      "course_img": "https://images.unsplash.com/photo-1638317037996-f86e745cf657?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1174&q=80",
+      "mentor_name": "Jennifer Lee",
+      "mentor_img": "https://images.unsplash.com/photo-1602625763089-638da9cf5dd5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=686&q=80",
+      "available_seats": 7,
+      "status": "approved",
+      "enrolled": 4,
+      "price": "$180"
+    }
+  ]
+  
